@@ -67,4 +67,7 @@ Welcome to my Monkeytype typing portfolio! This page showcases my continuous imp
 
 ---
 
-###
+### 🙌 Thank You for Exploring My Typing Portfolio!  
+Let’s connect and collaborate — I'm open to feedback, ideas, and opportunities.
+
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
