@@ -15,17 +15,17 @@ Welcome to my Monkeytype profile showcase. I'm passionate about improving my typ
 
 ---
 
-## 🏆 Best WPM
+## 🏆 Best WPM (Sorted by Speed)
 | Mode       | WPM | Accuracy |
 |------------|-----|----------|
-| 15s        | 101 | 100%     |
-| 30s        |  85 | 95%      |
-| 60s        |  82 | 94%      |
-| 120s       |  82 | 95%      |
 | 10 words   | 131 | 100%     |
+| 15s        | 101 | 100%     |
 | 25 words   |  96 | 99%      |
 | 50 words   |  87 | 99%      |
 | 100 words  |  87 | 94%      |
+| 30s        |  85 | 95%      |
+| 60s        |  82 | 94%      |
+| 120s       |  82 | 95%      |
 
 ---
 
