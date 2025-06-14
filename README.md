@@ -1,6 +1,6 @@
 # 🧠 Monkeytype Typing Profile – Farabi
 
-![Monkeytype Banner](https://monkeytype.com/img/logo_large.png)
+![Monkeytype Banner](typing-tornado/images/Monkeytype.jpeg)
 
 Welcome to my Monkeytype profile showcase. I'm passionate about improving my typing skills, and here’s a detailed summary of my progress, speed, and consistency as tracked on Monkeytype.
 
