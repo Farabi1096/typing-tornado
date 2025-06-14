@@ -67,10 +67,10 @@ Welcome to my Monkeytype profile showcase. I'm passionate about improving my typ
 
 ---
 
-### 🔗 Let's Connect!
-- GitHub: [Farabi](https://github.com/farabi1096)
-- Monkeytype: [monkeytype.com/profile/Farabi](https://monkeytype.com/profile/Farabi)
-- [LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
+### 🙌 Thank You for Exploring My Monkeytype Profile!  
+Let’s connect and collaborate—open to opportunities, feedback, and new ideas.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) | 💻 [GitHub](https://github.com/farabi1096) | ⌨️ [Monkeytype](https://monkeytype.com/profile/Farabi)
 
 ---
 
