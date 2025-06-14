@@ -7,10 +7,10 @@ Welcome to my Monkeytype profile showcase. I'm passionate about improving my typ
 ---
 
 ## 📊 All-Time Stats
-- **Tests Started:** 6,408
-- **Tests Completed:** 3,374
-- **Total Time Typing:** 19h 25m 37s
-- **Estimated Words Typed:** 10,742
+- **Tests Started:** 6,408  
+- **Tests Completed:** 3,374  
+- **Total Time Typing:** 19h 25m 37s  
+- **Estimated Words Typed:** 10,742  
 - **Top Mode:** 15 seconds (Top 45.43%)
 
 ---
@@ -29,23 +29,21 @@ Welcome to my Monkeytype profile showcase. I'm passionate about improving my typ
 
 ---
 
-## 📈 Recent Performance (Last 1,000 Tests)
-- **Average WPM:** 77
-- **Average WPM (Last 10):** 78
-- **Highest WPM:** 131
-- **Highest Raw WPM:** 139
-- **Average Raw WPM (Last 10):** 85
-- **Average Accuracy:** 94%
-- **Average Accuracy (Last 10):** 92%
-- **Highest Accuracy:** 100%
-- **Highest Consistency:** 96%
+## 📈 Performance Summary
+- **Highest WPM:** 131  
+- **Highest Raw WPM:** 139  
+- **Average Raw WPM (Last 10):** 85  
+- **Average Accuracy:** 94%  
+- **Average Accuracy (Last 10):** 92%  
+- **Highest Accuracy:** 100%  
+- **Highest Consistency:** 96%  
 - **Average Consistency:** 64%
 
 ---
 
 ## 📅 Activity
-- **Last 12 Months:** 1,185 tests
-- **Most Active Days:** Monday, Wednesday, Friday
+- **Last 12 Months:** 1,185 tests  
+- **Most Active Days:** Monday, Wednesday, Friday  
 - **Streak:** Consistent activity with spikes in Nov, Feb, and May
 
 ---
@@ -65,21 +63,13 @@ Welcome to my Monkeytype profile showcase. I'm passionate about improving my typ
 | 87.31 | 90.91%   | 79.54%      | 14 Jun 2025    |
 | 98.69 | 100.00%  | 63.34%      | 14 Jun 2025    |
 
-> *You can view more on my Monkeytype profile.*
-
----
-
-## ⚙️ Typing Preferences
-- **Main Mode:** Words (10)
-- **Platform:** Desktop
-- **Focus:** Accuracy & long-term consistency
-- **Typing Goal:** Master 100+ WPM with 95%+ accuracy consistently
+> 🔗 **Full Profile**: [Visit My Monkeytype Profile](https://monkeytype.com/profile/Farabi)
 
 ---
 
 ### 🔗 Let's Connect!
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- Monkeytype: [monkeytype.com](https://monkeytype.com)
+- Monkeytype: [monkeytype.com/profile/Farabi](https://monkeytype.com/profile/Farabi)
 
 ---
 
