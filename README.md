@@ -1,8 +1,8 @@
-# 🧠 Monkeytype Typing Profile – Farabi
+# 🧠 Monkeytype Typing Portfolio
 
-![Monkeytype Banner](Images/Monkeytype.jpeg)
+![Typing Stats Banner](Images/Monkeytype.jpeg)
 
-Welcome to my Monkeytype profile showcase. I'm passionate about improving my typing skills, and here’s a detailed summary of my progress, speed, and consistency as tracked on Monkeytype.
+Welcome to my Monkeytype typing portfolio! This page showcases my continuous improvement in speed, accuracy, and consistency — all tracked via Monkeytype. I use regular practice to boost both technical proficiency and workflow efficiency.
 
 ---
 
@@ -44,7 +44,7 @@ Welcome to my Monkeytype profile showcase. I'm passionate about improving my typ
 ## 📅 Activity
 - **Last 12 Months:** 1,185 tests  
 - **Most Active Days:** Monday, Wednesday, Friday  
-- **Streak:** Consistent activity with spikes in Nov, Feb, and May
+- **Streak:** Consistent activity with notable spikes in **November**, **February**, and **May**
 
 ---
 
@@ -67,11 +67,4 @@ Welcome to my Monkeytype profile showcase. I'm passionate about improving my typ
 
 ---
 
-### 🙌 Thank You for Exploring My Monkeytype Profile!  
-Let’s connect and collaborate—open to opportunities, feedback, and new ideas.
-
-🔗 [LinkedIn](https://www.linkedin.com/in/farabi-hsn/) | 💻 [GitHub](https://github.com/farabi1096) | ⌨️ [Monkeytype](https://monkeytype.com/profile/Farabi)
-
----
-
-_This README was generated based on [Monkeytype](https://monkeytype.com) stats captured on **14 June 2025**._
+###
