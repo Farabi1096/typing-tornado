@@ -20,12 +20,12 @@ Welcome to my Monkeytype profile showcase. I'm passionate about improving my typ
 |------------|-----|----------|
 | 10 words   | 131 | 100%     |
 | 15s        | 101 | 100%     |
-| 25 words   |  96 | 99%      |
-| 50 words   |  87 | 99%      |
-| 100 words  |  87 | 94%      |
-| 30s        |  85 | 95%      |
-| 60s        |  82 | 94%      |
-| 120s       |  82 | 95%      |
+| 25 words   | 96  | 99%      |
+| 50 words   | 87  | 99%      |
+| 100 words  | 87  | 94%      |
+| 30s        | 85  | 95%      |
+| 60s        | 82  | 94%      |
+| 120s       | 82  | 95%      |
 
 ---
 
@@ -54,21 +54,21 @@ Welcome to my Monkeytype profile showcase. I'm passionate about improving my typ
 ---
 
 ## 📃 Recent Test Logs
-| WPM   | Accuracy | Consistency | Date           |
-|-------|----------|-------------|----------------|
-| 106.12| 100.00%  | 58.84%      | 14 Jun 2025    |
-| 89.68 | 92.95%   | 82.51%      | 14 Jun 2025    |
-| 81.82 | 96.23%   | 58.73%      | 14 Jun 2025    |
-| 62.00 | 81.25%   | 75.43%      | 14 Jun 2025    |
-| 87.31 | 90.91%   | 79.54%      | 14 Jun 2025    |
-| 98.69 | 100.00%  | 63.34%      | 14 Jun 2025    |
+| WPM    | Accuracy | Consistency | Date        |
+|--------|----------|-------------|-------------|
+| 106.12 | 100.00%  | 58.84%      | 14 Jun 2025 |
+| 89.68  | 92.95%   | 82.51%      | 14 Jun 2025 |
+| 81.82  | 96.23%   | 58.73%      | 14 Jun 2025 |
+| 62.00  | 81.25%   | 75.43%      | 14 Jun 2025 |
+| 87.31  | 90.91%   | 79.54%      | 14 Jun 2025 |
+| 98.69  | 100.00%  | 63.34%      | 14 Jun 2025 |
 
 > 🔗 **Full Profile**: [Visit My Monkeytype Profile](https://monkeytype.com/profile/Farabi)
 
 ---
 
 ### 🔗 Let's Connect!
-- GitHub: [YourGitHubUsername](https://github.com/farabi1096)
+- GitHub: [Farabi](https://github.com/farabi1096)
 - Monkeytype: [monkeytype.com/profile/Farabi](https://monkeytype.com/profile/Farabi)
 
 ---
