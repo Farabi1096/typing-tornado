@@ -70,6 +70,7 @@ Welcome to my Monkeytype profile showcase. I'm passionate about improving my typ
 ### 🔗 Let's Connect!
 - GitHub: [Farabi](https://github.com/farabi1096)
 - Monkeytype: [monkeytype.com/profile/Farabi](https://monkeytype.com/profile/Farabi)
+- [LinkedIn](https://www.linkedin.com/in/farabi-hsn/)
 
 ---
 
