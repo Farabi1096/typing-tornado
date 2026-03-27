@@ -1,5 +1,5 @@
 # Typing Portfolio
-**Farabi1096 / typing-portfolio** &nbsp; [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-e2b714?style=flat-square&logoColor=black)](https://github.com/Farabi1096/portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
+**Farabi1096 / portfolio** &nbsp; [![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-e2b714?style=flat-square&logoColor=black)](https://github.com/Farabi1096/portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
 
 ---
 
