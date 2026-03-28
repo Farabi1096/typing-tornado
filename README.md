@@ -19,7 +19,7 @@
 
 ### 🇧🇩 বাংলা (Bangla)
 ![Avg Speed](https://img.shields.io/badge/Avg_Speed-45_WPM-00a86b?style=for-the-badge&logoColor=white)
-![Layout](https://img.shields.io/badge/Layout-Avro_Phonetic-00a86b?style=for-the-badge&logoColor=white)
+![Layout](https://img.shields.io/badge/Layout-Bijoy_Bayanno-00a86b?style=for-the-badge&logoColor=white)
 ![Proficiency](https://img.shields.io/badge/Proficiency-Fluent-00a86b?style=for-the-badge&logoColor=white)
 
 </td>
@@ -65,7 +65,6 @@
 
 <!--
   💡 TIP: Add a screenshot of your Bangla typing test here.
-  Take one from typing.bangla.gov.bd, bonikbd, or any Bangla typing tool.
   Save it as Images/Bangla_Typing.jpeg and uncomment the line below.
 -->
 <!-- <p align="center"><img src="Images/Bangla_Typing.jpeg" width="90%" /></p> -->
@@ -73,11 +72,12 @@
 | Metric | Detail |
 | :--- | :--- |
 | **Average Speed** | 45 WPM |
-| **Keyboard Layout** | Avro Phonetic |
+| **Keyboard Layout** | Bijoy Bayanno |
 | **Script** | বাংলা (Bengali) |
 | **Use Cases** | Professional documents, emails, content writing |
 
-> 📝 **Note:** Bangla typing benchmarks are measured using Avro Phonetic layout.  
+> 📝 **Note:** Bangla typing is performed using the **Bijoy Bayanno** layout — the most widely used  
+> fixed-positional Bengali keyboard in Bangladesh for professional and government documentation.  
 > Standardized online leaderboards for Bangla are limited compared to English platforms like Monkeytype.
 
 ---
