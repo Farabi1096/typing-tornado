@@ -5,11 +5,15 @@
 
 ## ⌨️ Dual-Language Typing Proficiency
 
+<div align="center">
+
 | 🇺🇸 English | 🇧🇩 বাংলা |
 | :---: | :---: |
-| <img src="Images/Monkeytype.jpeg" width="280" height="160" /> | <img src="Images/bijoy bayanno.jpg" width="280" height="160" /> |
-| **131 WPM** · 100% Accuracy · 96% Consistency | **45 WPM** · Bijoy Bayanno · Fluent |
-| [![Monkeytype](https://img.shields.io/badge/View_Monkeytype_Profile-e2b714?style=flat-square&logoColor=black)](https://monkeytype.com/profile/Farabi) | ![Layout](https://img.shields.io/badge/Layout-Bijoy_Bayanno-00a86b?style=flat-square&logoColor=white) |
+| <img src="Images/Monkeytype.jpeg" width="250" height="140" /> | <img src="Images/bijoy bayanno.jpg" width="250" height="140" /> |
+| **131 WPM** · 100% · 96% | **45 WPM** · Bijoy Bayanno · Fluent |
+| [![Monkeytype](https://img.shields.io/badge/Monkeytype_Profile-e2b714?style=flat-square&logoColor=black)](https://monkeytype.com/profile/Farabi) | ![Layout](https://img.shields.io/badge/Bijoy_Bayanno-00a86b?style=flat-square&logoColor=white) |
+
+</div>
 
 ---
 
