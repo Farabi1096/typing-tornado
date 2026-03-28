@@ -9,11 +9,18 @@
 <tr>
 <td width="50%" valign="top">
 <p align="center">
+<a href="https://monkeytype.com/profile/Farabi">
 <img src="Images/Monkeytype.jpeg" width="280" height="160" style="border-radius:8px;" />
+</a>
 </p>
 <h3 align="center">🇺🇸 English</h3>
 <p align="center">
 <b>131 WPM</b> · 100% Accuracy · 96% Consistency
+</p>
+<p align="center">
+<a href="https://monkeytype.com/profile/Farabi">
+<img src="https://img.shields.io/badge/Monkeytype_Profile-e2b714?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDNhOSA5IDAgMSAwIDAgMTggOSA5IDAgMCAwIDAtMTh6IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAiIHN0cm9rZS13aWR0aD0iMiIvPjwvc3ZnPg==&logoColor=black" />
+</a>
 </p>
 </td>
 <td width="50%" valign="top">
