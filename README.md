@@ -7,35 +7,24 @@
 
 <table>
 <tr>
-
-<td width="50%">
-<table><tr>
-<td><img src="Images/Monkeytype.jpeg" width="150" height="100" /></td>
-<td>
-
-**🇺🇸 English**
-Top Speed: **131 WPM**
-Accuracy: **100%**
-Consistency: **96%**
-
+<td width="50%" valign="top">
+<p align="center">
+<img src="Images/Monkeytype.jpeg" width="280" height="160" style="border-radius:8px;" />
+</p>
+<h3 align="center">🇺🇸 English</h3>
+<p align="center">
+<b>131 WPM</b> · 100% Accuracy · 96% Consistency
+</p>
 </td>
-</tr></table>
+<td width="50%" valign="top">
+<p align="center">
+<img src="Images/bijoy bayanno.jpg" width="280" height="160" style="border-radius:8px;" />
+</p>
+<h3 align="center">🇧🇩 বাংলা</h3>
+<p align="center">
+<b>45 WPM</b> · Bijoy Bayanno · Fluent
+</p>
 </td>
-
-<td width="50%">
-<table><tr>
-<td><img src="Images/bijoy bayanno.jpg" width="150" height="100" /></td>
-<td>
-
-**🇧🇩 বাংলা (Bangla)**
-Avg Speed: **45 WPM**
-Layout: **Bijoy Bayanno**
-Proficiency: **Fluent**
-
-</td>
-</tr></table>
-</td>
-
 </tr>
 </table>
 
