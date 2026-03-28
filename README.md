@@ -10,6 +10,9 @@
 <td align="center" width="50%">
 
 ### 🇺🇸 English
+
+<img src="Images/Monkeytype.jpeg" width="100%" />
+
 ![Top Speed](https://img.shields.io/badge/Top_Speed-131_WPM-e2b714?style=for-the-badge&logoColor=black)
 ![Accuracy](https://img.shields.io/badge/Accuracy-100%25-e2b714?style=for-the-badge&logoColor=black)
 ![Consistency](https://img.shields.io/badge/Consistency-96%25-e2b714?style=for-the-badge&logoColor=black)
@@ -18,6 +21,9 @@
 <td align="center" width="50%">
 
 ### 🇧🇩 বাংলা (Bangla)
+
+<img src="Images/bijoy bayanno.jpg" width="100%" />
+
 ![Avg Speed](https://img.shields.io/badge/Avg_Speed-45_WPM-00a86b?style=for-the-badge&logoColor=white)
 ![Layout](https://img.shields.io/badge/Layout-Bijoy_Bayanno-00a86b?style=for-the-badge&logoColor=white)
 ![Proficiency](https://img.shields.io/badge/Proficiency-Fluent-00a86b?style=for-the-badge&logoColor=white)
@@ -63,11 +69,9 @@
 
 ## 🇧🇩 বাংলা (Bangla) — Overview
 
-<!--
-  💡 TIP: Add a screenshot of your Bangla typing test here.
-  Save it as Images/Bangla_Typing.jpeg and uncomment the line below.
--->
-<!-- <p align="center"><img src="Images/Bangla_Typing.jpeg" width="90%" /></p> -->
+<p align="center">
+  <img src="Images/bijoy bayanno.jpg" width="90%" />
+</p>
 
 | Metric | Detail |
 | :--- | :--- |
