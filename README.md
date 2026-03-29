@@ -1,13 +1,8 @@
-<div align="center">
-
 # ⌨️ Typing Portfolio
 
-[![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-e2b714?style=for-the-badge&logoColor=black)](https://github.com/Farabi1096/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
+[![Back to Profile](https://img.shields.io/badge/←_Back_to_Profile-e2b714?style=for-the-badge&logoColor=black)](https://github.com/Farabi1096/portfolio) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farabi-hsn/)
 
 *Showcasing high-speed English proficiency and fluent Bangla typing skills.*
-
-</div>
 
 ---
 
@@ -22,7 +17,7 @@
 
 ### 🇺🇸 English Performance
 
-<img src="Images/Monkeytype.jpeg" width="320" align="right" alt="Monkeytype Stats" />
+<img src="Images/Monkeytype.jpeg" width="250" height="140" align="right" alt="Monkeytype Stats" />
 
 | Word Count | Speed (WPM) | Accuracy |
 | :--- | :---: | :---: |
@@ -39,7 +34,7 @@
 
 ### 🇧🇩 Bangla Performance
 
-<img src="Images/bijoy bayanno.jpg" width="320" align="right" alt="Bijoy Bayanno Layout" />
+<img src="Images/bijoy bayanno.jpg" width="250" height="140" align="right" alt="Bijoy Bayanno Layout" />
 
 | Metric | Detail |
 | :--- | :--- |
